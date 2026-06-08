@@ -24,7 +24,7 @@ I'm a Data Engineer at a startup called Cuedo Analytics. Graduated in B.Tech Com
 
 ## Featured Repositories
 
-♻️ Automated Waste Segregation System - which I got a patent registered under VIT's IPR&T Cell. 
+♻️ Automated Waste Segregation System: which I got a patent registered under VIT's IPR&T Cell. 
 📚 SQL Interview Prep  
 📖 Data Engineering Notes  
 ⚡ Spark Learning  
