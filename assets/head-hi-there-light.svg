@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="44" viewBox="0 0 900 44" role="img" aria-label="Hi there">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="60" viewBox="0 0 900 60" role="img" aria-label="Hi there">
   <title>Hi there</title>
   <defs>
     <linearGradient id="r" x1="0" y1="0" x2="1" y2="0">
@@ -12,6 +12,6 @@
     .h { font-family:"BH",Didot,"Hoefler Text",Georgia,serif; font-style:italic;
          font-size:30px; letter-spacing:0.015em; fill:#3F2639; }
   </style>
-  <text class="h" x="0" y="29.4">Hi there</text>
-  <rect x="128.2" y="22.8" width="771.8" height="1" fill="url(#r)"/>
+  <text class="h" x="0" y="45.4">Hi there</text>
+  <rect x="128.2" y="38.8" width="771.8" height="1" fill="url(#r)"/>
 </svg>
