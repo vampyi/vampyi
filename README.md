@@ -12,7 +12,7 @@
   <a href="https://substack.com/@deepthidubasi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-blog-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/badge-blog-light.svg"><img src="assets/badge-blog-dark.svg" width="137" alt="Blog: substack"></picture></a>
   <a href="mailto:deepthid411@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-email-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/badge-email-light.svg"><img src="assets/badge-email-dark.svg" width="237" alt="Email: deepthid411@gmail.com"></picture></a>
 </div>
-
+</div>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/head-hi-there-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/head-hi-there-light.svg"><img src="assets/head-hi-there-dark.svg" width="900" alt="Hi there"></picture>
 
