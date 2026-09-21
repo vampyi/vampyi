@@ -57,10 +57,12 @@
     .hair { fill:#6E4A60; }
     .caret { fill:#F2A8C0; }
 
-    .clip0 { animation:clip0 12.0s infinite; }
-    .clip1 { animation:clip1 12.0s infinite; }
-    .clip2 { animation:clip2 12.0s infinite; }
-    .caret { animation:caretx 12.0s infinite, blink 1.06s steps(1,end) infinite; }
+    /* negative delay starts the cycle with line 1 already typed, so the
+       subheading is never blank on page load */
+    .clip0 { animation:clip0 12.0s -1.3s infinite; }
+    .clip1 { animation:clip1 12.0s -1.3s infinite; }
+    .clip2 { animation:clip2 12.0s -1.3s infinite; }
+    .caret { animation:caretx 12.0s -1.3s infinite, blink 1.06s steps(1,end) infinite; }
 
   @keyframes clip0 {
     0% { width:0; animation-timing-function:steps(20,end); }
