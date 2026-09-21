@@ -13,9 +13,14 @@
   <a href="mailto:deepthid411@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-email-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/badge-email-light.svg"><img src="assets/badge-email-dark.svg" width="237" alt="Email: deepthid411@gmail.com"></picture></a>
 </div>
 
+
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/head-hi-there-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/head-hi-there-light.svg"><img src="assets/head-hi-there-dark.svg" width="900" alt="Hi there"></picture>
 
-I'm a Data Engineer at a startup called Cuedo Analytics. Graduated in B.Tech Computer Science from VIT Vellore (2021-25).
+My name is Deepthi Dubasi, currently working as a Data Engineer at a startup called Cuedo Analytics. I graduated in B.Tech Computer Science from VIT Vellore (2025). 
+
+My interests lie within the field of Data and AI, much in building a pipeline or even an app that helps solve an issue (and pays for my food). 
+
+Outside my academic and professional pursuits, I am passionate about reading books, spotify, football and adding more hobbies to this list.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/head-tools-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/head-tools-light.svg"><img src="assets/head-tools-dark.svg" width="900" alt="Few tools I'm currently working with"></picture>
 
