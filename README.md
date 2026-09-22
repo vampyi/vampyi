@@ -27,16 +27,9 @@ Outside my academic and professional pursuits, I am passionate about reading boo
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/tools-dark.svg?v=2"><source media="(prefers-color-scheme: light)" srcset="assets/tools-light.svg?v=2"><img src="assets/tools-dark.svg?v=2" width="900" alt="AWS, Python, MySQL, PostgreSQL, PySpark, Kafka, Databricks, Snowflake, dbt, Trino, DuckDB, pandas, NumPy, scikit-learn, TensorFlow, Keras, PyTorch, Tableau, Docker, Kubernetes, Airflow, Git"></picture>
 
-**On AWS:** S3 · Athena · Glue · Redshift · EMR · EKS · EC2 · Kinesis · Lambda · DynamoDB · Bedrock · SageMaker · CloudFormation
+**On AWS:** S3 · Athena · Glue · Redshift · EMR · EKS · EC2 · Kinesis · Lambda · DynamoDB · Bedrock · SageMaker ·  Quicksight · CloudFormation 
 
-**Also:** Spark Structured Streaming · Apache Iceberg · ETL · Parquet · QuickSight · Dagster · Kiro · Karpenter
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/head-focus-dark.svg?v=2"><source media="(prefers-color-scheme: light)" srcset="assets/head-focus-light.svg?v=2"><img src="assets/head-focus-dark.svg?v=2" width="900" alt="Current Focus"></picture>
-
-- SQL Mastery
-- Data Engineering Fundamentals
-- Apache Spark
-- System Design
+**Also:** Spark Structured Streaming · Apache Iceberg · ETL · Parquet · Dagster · Kiro · Karpenter
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/head-featured-dark.svg?v=2"><source media="(prefers-color-scheme: light)" srcset="assets/head-featured-light.svg?v=2"><img src="assets/head-featured-dark.svg?v=2" width="900" alt="Featured Repositories"></picture>
 
