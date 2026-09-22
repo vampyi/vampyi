@@ -21,7 +21,7 @@ My name is Deepthi Dubasi, currently working as a Data Engineer at a startup cal
 
 My interests lie within the field of Data and AI, much in building a pipeline or even an app that helps solve an issue (and pays for my food). 
 
-Outside my academic and professional pursuits, I am passionate about reading books, spotify, football and adding more hobbies to this list.
+Outside my academic and professional pursuits, I am passionate about reading books, spotify, video games, football and adding more hobbies to this list.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/head-tools-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/head-tools-light.svg"><img src="assets/head-tools-dark.svg" width="900" alt="Few tools I'm currently working with"></picture>
 
