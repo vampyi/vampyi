@@ -40,11 +40,8 @@ Outside my academic and professional pursuits, I am passionate about reading boo
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/head-featured-dark.svg?v=2"><source media="(prefers-color-scheme: light)" srcset="assets/head-featured-light.svg?v=2"><img src="assets/head-featured-dark.svg?v=2" width="900" alt="Featured Repositories"></picture>
 
+- **Nyaya** - Open Warehouse of Indian Court Judgement Records 
 - **Automated Waste Segregation System** — patent registered under VIT's IPR&T Cell
-- **SQL Interview Prep**
-- **Data Engineering Notes**
-- **Spark Learning**
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/head-connect-dark.svg?v=2"><source media="(prefers-color-scheme: light)" srcset="assets/head-connect-light.svg?v=2"><img src="assets/head-connect-dark.svg?v=2" width="900" alt="Connect"></picture>
-
-LinkedIn: [linkedin.com/in/deepthidubasi](https://linkedin.com/in/deepthidubasi)
+- **Streaming Pipeline Migration – Databricks to AWS**
+- **Real-Time Iot Analytics Platform**
+- **Horizon - Geospatial Decision-Support Platform**
