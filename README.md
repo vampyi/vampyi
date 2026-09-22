@@ -25,7 +25,7 @@ Outside my academic and professional pursuits, I am passionate about reading boo
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/head-tools-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/head-tools-light.svg"><img src="assets/head-tools-dark.svg" width="900" alt="Few tools I'm currently working with"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/tools-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/tools-light.svg"><img src="assets/tools-dark.svg" width="900" alt="Python, MySQL, PostgreSQL, PySpark, Kafka, Databricks, Snowflake, dbt, Trino, DuckDB, pandas, NumPy, scikit-learn, TensorFlow, Keras, PyTorch, Tableau, Docker, Kubernetes, Airflow, Git, AWS"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/tools-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/tools-light.svg"><img src="assets/tools-dark.svg" width="900" alt="AWS, Python, MySQL, PostgreSQL, PySpark, Kafka, Databricks, Snowflake, dbt, Trino, DuckDB, pandas, NumPy, scikit-learn, TensorFlow, Keras, PyTorch, Tableau, Docker, Kubernetes, Airflow, Git"></picture>
 
 **On AWS:** S3 · Athena · Glue · Redshift · EMR · EKS · EC2 · Kinesis · Lambda · DynamoDB · Bedrock · SageMaker · CloudFormation
 
